@@ -1,0 +1,88 @@
+img {
+	width:400px;
+    height:400px;
+	float: left;
+    margin-right:50px;
+    margin-bottom: 15px;
+    margin-left: 100px;
+	}
+
+p {
+	font-family:cursive;
+	margin-left: 1.66%;
+	font-size: 10px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+}
+h1{
+    font-family: cursive;
+   color:crimson;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align:center
+   }
+h2{
+    font-size: 10px;
+    text-align:center;
+color:blue;
+}
+h3{
+    float:bottom;
+}
+
+#rainbow_waterfall
+{
+    font-size:15px;
+    color:mediumturquoise;
+    margin-left:220px;
+    
+    
+    }
+
+    #waterfall{
+        
+    font-size:15px;
+    color:mediumblue;
+    margin-left:200px;
+    }
+
+    #melting
+    {
+        font-size:15px;
+    color:lightsalmon;
+    margin-left:195px;
+    }
+
+    #beautiful
+    {
+        font-size:15px;
+    color:magenta;
+    margin-left:250px;
+    }
+
+    .arrangement
+    {
+        width:1300px;
+            }
+
+   .d1{
+    width:600px;
+    height:500px;
+    float: left;
+   }  
+   
+   .d2{
+    width:600px;
+    height:500px;
+    float: right;
+   }
+
+  
+    
+
+
+    
+    
